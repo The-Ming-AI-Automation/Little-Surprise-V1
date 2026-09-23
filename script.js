@@ -10,7 +10,7 @@
     sender:"ming",
     passcodeHash:"07c4b46160c71a2135063b4c47638ce816fc99968dbce0e52faec985bbbb27fd",
     music:"music.mp3",
-    voiceMessage:"voice-message.mp3",
+    voiceMessage:"voice-message.m4a",
     encouragement:{
       zh:{title:"你今天已经很努力了。",message:"我知道，有些日子真的比想象中更累。就算别人没发现，我也看得见你一直很努力。你不需要做到完美，也一样值得我为你感到骄傲。"},
       en:{title:"You did your best today.",message:"I know some days ask more from you than they should. I see how hard you try, even when nobody else notices. You don’t have to be perfect for me to be proud of you."}
